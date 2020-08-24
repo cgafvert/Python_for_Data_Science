@@ -1,6 +1,7 @@
 from __future__ import print_function, division
 
 ''' A class to implement a simple decision tree (based on ID3)
+    making a simple edit to use Github - cgafvert 8/24/20
 '''
 
 __author__ = 'Joe McCarthy'
